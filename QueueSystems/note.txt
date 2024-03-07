@@ -1,1 +1,2 @@
 
+A complete different server for queue tasks which sends mail confirmation to the user without putting load on the main server. Internally it uses redis server connection and BullMQ queue systems.

@@ -1,0 +1,1 @@
+const worker = require("./queue/email-queue");
